@@ -1,4 +1,4 @@
-# afterglow (web)
+# Amine(web)
 
 Kernel exploit for the PlayStation 4 on firmware **12.00, 12.02, 12.50, 12.52,
 13.00, 13.02, 13.04, 13.50, 13.52, 14.00 and 14.02**, run from the console's own
